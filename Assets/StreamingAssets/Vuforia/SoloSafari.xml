@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig>
+  <Tracking>
+    <ImageTarget name="komodo" size="1.000000 1.389682" />
+    <ImageTarget name="kakaktua_raja" size="1.000000 1.385588" />
+    <ImageTarget name="buaya_senyulong" size="1.000000 1.405809" />
+    <ImageTarget name="wallaby" size="1.000000 1.355794" />
+    <ImageTarget name="cornsnake" size="1.000000 1.432304" />
+    <ImageTarget name="rusapunuksatu" size="1.000000 1.406063" />
+    <ImageTarget name="gajahsumatera" size="1.000000 1.342619" />
+    <ImageTarget name="singaa" size="1.000000 1.391794" />
+  </Tracking>
+</QCARConfig>
