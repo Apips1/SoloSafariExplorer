@@ -9,4 +9,8 @@ public class next : MonoBehaviour
    {
     SceneManager.LoadScene("menu");
    }
+   public void SampleScene()
+   {
+    SceneManager.LoadScene("SampleScene");
+   }
 }
