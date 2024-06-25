@@ -1,12 +1,67 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <QCARConfig>
   <Tracking>
+    <ImageTarget name="ularsancabatik" size="1.000000 1.296915" />
+    <ImageTarget name="merakhijau" size="1.000000 0.716520" />
+    <ImageTarget name="kurakurasulcata" size="1.000000 1.384615" />
+    <ImageTarget name="koi" size="1.000000 1.410648" />
+    <ImageTarget name="kepundangkudukhitam" size="1.000000 0.679081" />
+    <ImageTarget name="kengkareng" size="1.000000 1.399921" />
+    <ImageTarget name="kakaktuajambulkuning" size="1.000000 1.388824" />
+    <ImageTarget name="julangemas" size="1.000000 1.386891" />
+    <ImageTarget name="dederukjawa" size="1.000000 0.714063" />
+    <ImageTarget name="rankongbadak" size="1.000000 1.380745" />
+    <ImageTarget name="pelikan" size="1.000000 1.364849" />
+    <ImageTarget name="nuribayan" size="1.000000 0.725782" />
+    <ImageTarget name="kucicakampung" size="1.000000 0.729792" />
+    <ImageTarget name="kakatugoffin" size="1.000000 1.406872" />
+    <ImageTarget name="jalakungu" size="1.000000 0.708868" />
+    <ImageTarget name="jalakkerbau" size="1.000000 0.673951" />
+    <ImageTarget name="iguana" size="1.000000 1.385784" />
+    <ImageTarget name="elangularbido" size="1.000000 1.402174" />
+    <ImageTarget name="elanglautdadaputih" size="1.000000 1.368932" />
+    <ImageTarget name="elangjawa" size="1.000000 1.352724" />
+    <ImageTarget name="elangbrontok" size="1.000000 1.382093" />
+    <ImageTarget name="elangbondol" size="1.000000 1.379296" />
+    <ImageTarget name="burungunta" size="1.000000 1.282433" />
+    <ImageTarget name="buayamuara" size="1.000000 1.382935" />
+    <ImageTarget name="ayamserama" size="1.000000 1.390686" />
+    <ImageTarget name="lutung" size="1.000000 1.407407" />
+    <ImageTarget name="unta_punuk_satu" size="1.000000 1.406332" />
+    <ImageTarget name="siamang" size="1.000000 1.325052" />
+    <ImageTarget name="owa_jawa" size="1.000000 1.302136" />
+    <ImageTarget name="watushi" size="1.000000 1.379511" />
+    <ImageTarget name="unta_punuk_dua" size="1.000000 1.395178" />
+    <ImageTarget name="tapir" size="1.000000 1.331030" />
+    <ImageTarget name="sitatunga" size="1.000000 1.353544" />
+    <ImageTarget name="serval" size="1.000000 1.090578" />
+    <ImageTarget name="rusa_tutul" size="1.000000 1.393434" />
+    <ImageTarget name="rusa_timor" size="1.000000 1.393908" />
+    <ImageTarget name="rusa_bawean" size="1.000000 1.338611" />
+    <ImageTarget name="owa_ungko" size="1.000000 1.404884" />
+    <ImageTarget name="orang_utan" size="1.000000 1.312430" />
+    <ImageTarget name="nilgai" size="1.000000 1.325129" />
+    <ImageTarget name="musang_pandan" size="1.000000 1.350593" />
+    <ImageTarget name="meerkat" size="1.000000 1.415338" />
+    <ImageTarget name="lechwe" size="1.000000 1.377935" />
+    <ImageTarget name="kuda_poni_sumbawa" size="1.000000 1.408790" />
+    <ImageTarget name="kuda_nill" size="1.000000 1.361252" />
+    <ImageTarget name="kuda_nil_kerdil" size="1.000000 1.409419" />
+    <ImageTarget name="kucing_hutan" size="1.000000 1.404577" />
+    <ImageTarget name="kelinci" size="1.000000 1.442419" />
+    <ImageTarget name="harimau_benggala" size="1.000000 1.005578" />
+    <ImageTarget name="grant_zebra" size="1.000000 1.366068" />
+    <ImageTarget name="gnu" size="1.000000 1.414800" />
+    <ImageTarget name="eland" size="1.000000 1.289850" />
+    <ImageTarget name="binturong" size="1.000000 1.321628" />
+    <ImageTarget name="beruang_madu" size="1.000000 1.404619" />
+    <ImageTarget name="banteng_jawa" size="1.000000 1.345087" />
+    <ImageTarget name="anoa" size="1.000000 1.401559" />
     <ImageTarget name="komodo" size="1.000000 1.389682" />
     <ImageTarget name="kakaktua_raja" size="1.000000 1.385588" />
     <ImageTarget name="buaya_senyulong" size="1.000000 1.405809" />
     <ImageTarget name="wallaby" size="1.000000 1.355794" />
     <ImageTarget name="cornsnake" size="1.000000 1.432304" />
-    <ImageTarget name="rusapunuksatu" size="1.000000 1.406063" />
     <ImageTarget name="gajahsumatera" size="1.000000 1.342619" />
     <ImageTarget name="singaa" size="1.000000 1.391794" />
   </Tracking>
